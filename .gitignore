@@ -1,0 +1,16 @@
+__pycache__/
+.ipynb_checkpoints/
+
+# Large datasets
+data/
+*.csv
+
+# Models
+*.pkl
+
+# Outputs
+outputs/
+
+# Misc
+*.zip
+*.tmp
